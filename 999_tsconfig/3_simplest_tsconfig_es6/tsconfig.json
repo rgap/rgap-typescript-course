@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es6" 
+    // "target": "es6" tells TypeScript to keep modern ES6 features in the output.
+    // This is ideal for environments that support ES6 or newer.
+  }
+}

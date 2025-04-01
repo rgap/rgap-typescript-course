@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5"
+    // "target": "es5" compiles TypeScript into ECMAScript 5 syntax.
+    // This ensures compatibility with older JavaScript environments.
+  }
+}
